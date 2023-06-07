@@ -16,3 +16,6 @@ release/
 
 #env
 .env
+
+#additional
+crypto_wallet.json
